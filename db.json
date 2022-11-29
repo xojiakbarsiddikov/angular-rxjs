@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "name": "Xojiakbar",
+      "age": 15,
+      "img": "assets/vue-js.png"
+    },
+    {
+      "name": "Abbos aka",
+      "age": 20,
+      "img": "assets/vuetify.jpeg"
+    },
+    {
+      "name": "Rizo",
+      "age": 14,
+      "img": "assets/nest-js.jpg"
+    },
+    {
+      "name": "Xafiz",
+      "age": 15,
+      "img": "assets/angular.png"
+    }
+  ]
+}
